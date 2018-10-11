@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/eltishehu/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/eltishehu/spring5-mongo-recipe-app)
 
-[![codecov](https://codecov.io/gh/elstishehu/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/eltishehu/spring5-mongo-recipe-app)
+[![codecov](https://codecov.io/gh/eltishehu/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/eltishehu/spring5-mongo-recipe-app)
 
 # spring5-mongo-recipe-app
 Recipe Application Using MongoDB
